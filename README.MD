@@ -4,6 +4,9 @@ An interpreter for the Brainf-ck programming language
 
 I created this project for a challenge from a YouTuber.
 
+This project was started in July of 2016 and was last updated in August of
+2016.
+
 Read more about Brainf-ck on
 [Wikipedia](https://en.wikipedia.org/wiki/Brainfuck).
 
@@ -30,9 +33,9 @@ Read more about Brainf-ck on
 This interpreter follows the standards on Wikipedia.
 
 Hardware limitations are not checked, when they are reached, this interpreter
-will have undefined behaviour (probably crash).
+will have undefined behavior (probably crash).
 
-Specific behaviours on controversial issues:
+Specific behaviours on controversial restrictions:
 * Brainf-ck script size: up to 2,147,483,647 bytes
 * Cell size: 64 bit integer
 * Array pointer: -2,147,483,648 to 2,147,483,647
