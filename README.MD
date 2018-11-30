@@ -2,6 +2,8 @@
 
 An interpreter for the Brainf-ck programming language
 
+I created this project for a challenge from a YouTuber.
+
 Read more about Brainf-ck on
 [Wikipedia](https://en.wikipedia.org/wiki/Brainfuck).
 
@@ -10,18 +12,18 @@ Read more about Brainf-ck on
 ## How to use
 
 * `Brainf-ckInterpreter.exe /f full_path_to_file_to_interprete.bf`
-Run a script from file, the full path needs to be supplied.
+  Run a script from file, the full path needs to be supplied.
 
 * `Brainf-ckInterpreter.exe /i one_line_brainf-ck_commands`
-(`/i` can be anything other than `/f`) Run Brainf-ck commands contained in the
-2nd argument.
+  (`/i` can be anything other than `/f`) Run Brainf-ck commands contained in
+  the 2nd argument.
 
 * `Brainf-ckInterpreter.exe /debug`
-(`/debug` can be anything but only one argument can be supplied) Run a
-hard-coded script, this is for debugging purposes only.
+  (`/debug` can be anything but only one argument can be supplied) Run a
+  hard-coded script, this is for debugging purposes only.
 
 * `Brainf-ckInterpreter.exe`
-(without argument) Show usage.
+  (without argument) Show usage.
 
 ## Standards
 
