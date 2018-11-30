@@ -7,7 +7,7 @@ I created this project for a challenge from a YouTuber.
 Read more about Brainf-ck on
 [Wikipedia](https://en.wikipedia.org/wiki/Brainfuck).
 
-# Brainf-ck Interpreter
+# Interpreter
 
 ## How to use
 
@@ -47,7 +47,7 @@ Specific behaviours on controversial issues:
 **Planned features:** Debug breakpoints, memory dump, input from file,
 configurable behaviours
 
-# Brianf-ck GUI
+# GUI
 
 Allows the user to easily run multi-line script, a temporary file `temp.bf`
 will be generated in the same directory as the GUI application in order to
