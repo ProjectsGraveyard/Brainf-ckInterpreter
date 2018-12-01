@@ -2,7 +2,7 @@
 
 An interpreter for the Brainf-ck programming language
 
-I created this project for a challenge from a YouTuber.
+I created this for a challenge from a YouTuber.
 
 This project was started in July of 2016 and was last updated in August of
 2016.
