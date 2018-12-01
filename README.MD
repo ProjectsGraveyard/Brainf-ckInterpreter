@@ -19,7 +19,7 @@ Read more about Brainf-ck on
 
 * `Brainf-ckInterpreter.exe /i one_line_brainf-ck_commands`
   (`/i` can be anything other than `/f`) Run Brainf-ck commands contained in
-  the 2nd argument.
+  the second argument.
 
 * `Brainf-ckInterpreter.exe /debug`
   (`/debug` can be anything but only one argument can be supplied) Run a
