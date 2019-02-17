@@ -25,7 +25,7 @@ namespace Brainf_ckInterpreter
         /// </summary>
         static List<long> mem = new List<long>();
         /// <summary>
-        /// Negative memory (-1 and below
+        /// Negative memory (-1 and below)
         /// </summary>
         static List<long> lMem = new List<long>();
         /// <summary>
